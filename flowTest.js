@@ -44,3 +44,11 @@
 //     d:new Bar('test',11,false)
 // }
 //[ts]怎么去掉？
+//git init//本地文件与git建立链接
+//git commit －m 'xxx' //提交修改到本地仓库
+//git remote add origin https://。。。。 //远程某地址添加设置为源
+//git push －u origin master //将本地仓库修改添加到源仓库的master分支
+//git branch xxx //添加名为xxx的分支
+//git checkout xxx //将当前分支切换到xxx分支
+//git add . //将当前新建文件及修改添加到本地仓库中
+//git status //查看当前文件状态
